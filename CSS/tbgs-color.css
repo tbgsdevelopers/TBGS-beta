@@ -1,0 +1,46 @@
+:root{
+    --dominant: #59ADFF;
+    --primary-o: #90C418;
+    --primary-t: #F8C822;
+    --secondary: #FC4850;
+    --white: #F8F8F8;
+    --black: #111111;
+}
+
+
+.dominant_bg{
+    background-color: var(--dominant);
+}
+.dominant_cl{
+    color: var(--dominant);
+}
+.primary-o_bg{
+    background-color: var(--primary-o);
+}
+.primary-o_cl{
+    color: var(--primary-o);
+}
+.primary-t_bg{
+    background-color: var(--primary-t);
+}
+.dominant_cl{
+    color: var(--primary-t);
+}
+.secondary_bg{
+    background-color: var(--secondary);
+}
+.secondary_cl{
+    color: var(--secondary);
+}
+.white_bg{
+    background-color: var(--white);
+}
+.white_cl{
+    color: var(--white);
+}
+.black_bg{
+    background-color: var(--black);
+}
+.black_cl{
+    color: var(--black);
+}

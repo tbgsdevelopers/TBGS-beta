@@ -3,3 +3,4 @@ TBGS CSS fils and their purpose
 1. TBGS main css file is for the all website pages
 2. TBGS utility css file for the utility elements and classes
 3. TBGS alt are the alternative solutions for the entire website pages
+4. TBGS coloe css includes all the coloures that are needs be winthin a document.
