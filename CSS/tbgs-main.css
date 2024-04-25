@@ -27,6 +27,11 @@
     --body: "Poppins", sans-serif;
 
     /* gaps */
+    --ultra: 100px;
+    --big: 56px;
+    --mid: 32px;
+    --small: 20px;
+    --x-small: 10px;
 }
 .header {
     background-color: var(--dominant);
