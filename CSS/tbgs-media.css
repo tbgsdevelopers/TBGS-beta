@@ -1,0 +1,23 @@
+@import url(./tbgs-color.css);
+@import url(./tbgs-main.css);
+@import url(./tbgs-utility.css);
+
+/* For mobile screen */
+@media screen and (min-width: 480px) {
+    
+}
+
+/* For tablet screen */
+@media screen and (min-width: 750px) {
+    
+}
+
+/* For laptop screen */
+@media only screen and (min-width: 751px) and (max-width: 1224px) {
+    
+}
+
+/* For Desktop screen */
+@media screen and (min-width: 1225px) {
+    
+}
