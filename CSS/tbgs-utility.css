@@ -1,0 +1,6 @@
+@import url(./tbgs-main.css);
+@import url(./tbgs-color.css);
+
+.tbgs-button-filled{
+    color: black;
+}

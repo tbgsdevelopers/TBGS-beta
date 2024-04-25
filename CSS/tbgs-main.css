@@ -1,6 +1,6 @@
 @import url(./tbgs-color.css);
 
-:root{
+:root {
     /* Typography */
     --title: 56px;
     --heading-big: 48px;
@@ -22,9 +22,20 @@
     /* gaps */
 }
 
-.header{
-    width: auto;
+.header {
+    color: black;
 }
-.tbgs-logo{
-    width: auto;
+
+.tbgs-logo {
+    color: black;
+}
+
+.tbgs-nav {
+    color: black;
+}
+.navlinks{
+    color: black;
+}
+.navlinks a{
+    color: black;
 }
