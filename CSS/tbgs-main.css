@@ -1,8 +1,11 @@
 @import url(./tbgs-color.css);
 
-*[
-    
-]
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--body);
+}
 
 :root {
     /* Typography */
@@ -26,7 +29,7 @@
     /* gaps */
 }
 .header {
-    
+    background-color: var(--dominant);
 }
 
 .tbgs-logo {
